@@ -34,22 +34,22 @@ Searches the web for user queries.
 
 Includes pause and resume features for the conversation.
 
-How to Use
-BMI Calculator
+# How to Use
+## BMI Calculator
 Run the bmi_calculator.py script.
 
 Input your weight and height when prompted.
 
 The application will output your BMI and corresponding category.
 
-Password Generator
+## Password Generator
 Run the password_generator.py script.
 
 Input the desired length and preferences for letters, numbers, and symbols.
 
 The application will generate and display a strong password.
 
-Voice Assistant
+## Voice Assistant
 Ensure you have all required libraries installed (speech_recognition, pyttsx3, webbrowser, etc.).
 
 Run the voice_assistant.py script.
